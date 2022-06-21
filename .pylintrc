@@ -1,0 +1,5 @@
+[MASTER]
+ignore=migrations
+
+[MISCELLANEOUS]
+notes=FIXME,XXX,REFACTOR
